@@ -1,4 +1,1 @@
 # Automatic-door
-
-Automatic-door
-  
